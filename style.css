@@ -186,3 +186,9 @@ button {
     column-count: 3;
   }
 }
+
+@media screen and (min-width: 1400px) {
+  .hero::before {
+    background-size: 100%;
+  }
+}
