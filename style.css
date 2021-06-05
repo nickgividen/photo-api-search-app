@@ -156,13 +156,6 @@ button {
   transition: 0.2s ease-in-out;
 }
 
-/* @media screen and (min-width: 480px) {
-  .fixed {
-    left: 20%;
-    right: 20%;
-  }
-} */
-
 @media screen and (min-width: 600px) {
   .pexels-link {
     font-size: 1rem;
